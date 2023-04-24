@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on [Mostaqbli](https://mostaqbli.org/)
 
-- 🤝 I’m looking for help with [their website](https://mostaqbli.org/)
-
 - 📝 I regularly write articles on [https://fyros.me](https://fyros.me)
 
 - 💬 Ask me about **react,vue, and rust**
